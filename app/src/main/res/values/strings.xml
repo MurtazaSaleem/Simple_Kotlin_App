@@ -16,7 +16,7 @@
 
     <!-- the button labels -->
     <string name="send">Play</string>
-    <string name="close">Reset</string>
+    <string name="close">Play Again</string>
 
     <!-- the activity labels -->
     <string name="input_activity">Input Activity</string>

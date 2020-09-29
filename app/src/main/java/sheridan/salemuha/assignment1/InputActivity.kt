@@ -35,7 +35,6 @@ class InputActivity : AppCompatActivity() {
             randomHand = getString(R.string.scissor)
         }
 
-        val urgent = binding.urgentCheckBox.isChecked
 
         // get the selected message text
         val message = when (binding.messageGroup.checkedRadioButtonId) {
